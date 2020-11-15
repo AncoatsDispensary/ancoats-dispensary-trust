@@ -76,8 +76,11 @@ gallery:
   - url: /assets/images/glass/glass-24.jpg
     image_path: /assets/images/glass/glass-24.jpg
     alt: "Glass 24"
-  - url: /assets/images/glass/glass-4.jpg
-    image_path: /assets/images/glass/glass-4.jpg
+  # - url: /assets/images/glass/glass-4.jpg
+  #   image_path: /assets/images/glass/glass-4.jpg
+  #   alt: "Glass 4"
+  - url: /assets/images/glass/glass-tall.jpg
+    image_path: /assets/images/glass/glass-tall.jpg
     alt: "Glass 4"    
 ---
 
