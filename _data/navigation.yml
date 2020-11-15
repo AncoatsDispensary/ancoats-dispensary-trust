@@ -1,12 +1,71 @@
 # main links
 main:
-  - title: "Ancoats Dispensary Trust"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "The Mission"
+    url: /mission
+  - title: "Timeline"
+    url: /history
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+timeline:
+  - title: Timeline
+    children:
+      - title: "History of Ancoats Hospital"
+        url: /history
+      - title: "Painting by LS Lowry"
+        url: /painting
+      - title: "Ancoats Hospital Closes"
+        url: /ancoats-hospital-closes
+      - title: "Demolition of Hospital"
+        url: /demolition-of-hospital
+
+  - title: Fight to Save the Dispensary
+    children:
+      - title: "Fight to Save the Dispensary"
+        url: /fight-to-save-the-dispensary
+      - title: "The Vigil"
+        url: /the-vigil
+      - title: "Public Consultation 2013"
+        url: /public-consultation-2013
+      - title: "Formation of Ancoats Dispensary Trust"
+        url: /formation-of-ancoats-dispensary-trust
+
+  - title: Fundraising Events
+    children:
+      - title: "Burger Night"
+        url: /burger-night
+      - title: "Party in the Park"
+        url: /party-in-the-park
+      - title: "Andy Hickmott Poem"
+        url: /andy-hickmott-poem
+      - title: "Share the Vision"
+        url: /share-the-vision
+      - title: "Lucy Powell's Video"
+        url: /lucy-powells-video
+
+  - title: Collaborations
+    children:
+      - title: "Manchester Histories Festival 2016"
+        url: /manchester-histories-festival-2016
+      - title: "Manchester School of Art - Film Production"
+        url: /film-production
+      - title: "Glass Exhibition"
+        url: /glass-exhibition
+      - title: "Ancoats in 100 Objects"
+        url: https://ancoatsdispensary100.wordpress.com/
+
+  - title: Funding
+    children:
+      - title: "Stage 1 Funding Approval"
+        url: /funding-approval
+      - title: "Stage 2 Funding Rejection"
+        url: /funding-rejection
+
+  - title: What's happening now?
+    children:
+      - title: "Ancoats Dispensary Trust Twitter"
+        url: https://twitter.com/twitdispensary?lang=en
+      - title: "Ancoats Dispensary Trust Facebook"
+        url: https://www.facebook.com/saveancoatsdispensary/
