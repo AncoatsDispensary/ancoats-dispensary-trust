@@ -22,6 +22,5 @@ The artist chosen was LS Lowry and he was paid the sum of £500.  Nurses we have
 
 The painting was to become one of Lowry’s most famous works, *‘The Outpatients Hall’*, and is one of his few internal paintings.  The painting hung in the Committee Room at Ancoats Hospital until 1962, when the Graves Art Gallery in Sheffield asked if they could borrow it for a Lowry exhibition.  It was specially insured for £1000 for its trip to Sheffield.  In the 1980s, it was exhibited once more, this time at the Barbican in London and then after the hospital closed in the late 1980s, the Whitworth Art Gallery in Manchester held it in their archives for a number of years.  It was exhibited at Tate Britain in 2013 and is now held once again at the Whitworth in Manchester. 'The Outpatients Hall' can be seen by appointment. 
 
-
-![lowry](assets/images/lowry.jpg){: .align-center}
+[Link to the painting](http://gallerysearch.ds.man.ac.uk/Detail/4607)
 

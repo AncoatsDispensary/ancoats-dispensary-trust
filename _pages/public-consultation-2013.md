@@ -8,6 +8,4 @@ sidebar:
   nav: "timeline"
 ---
 
-# Public Consultation 2013
-
-Questionnaire Result – on pie charts
+![plaque](assets/images/consultation.jpg){: .align-center}
