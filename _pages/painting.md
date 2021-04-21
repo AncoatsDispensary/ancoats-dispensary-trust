@@ -1,14 +1,16 @@
 ---
-title: "Painting by LS Lowry"
+title: ""
 permalink: "/painting"
 layout: "single"
 header:
-  image: /assets/images/archway-short.jpg
+  image: /assets/images/flickr/banners/painting.jpg
 sidebar:
   nav: "timeline"
 ---
 
-The Story Behind *‘The Outpatients Hall’* Painting by LS Lowry
+The painting forms part of the Lowry Estate and is, therefore, under copyright law.  The painting can be viewed at The Whitworth Art Gallery, Manchester, by appointment.
+
+## The Story Behind *‘The Outpatients Hall’* Painting by LS Lowry
 
 Among the many surgeons who practised their skills at the Ancoats Hospital was Peter McEvedy, a New Zealander.  Mr McEvedy was very well respected by all he came into contact with, patients and colleagues alike.  He was known for not only being a superb surgeon, but also for being someone who was always on the side of the ‘underdog’.  
 
@@ -24,3 +26,8 @@ The painting was to become one of Lowry’s most famous works, *‘The Outpatien
 
 [Link to the painting](http://gallerysearch.ds.man.ac.uk/Detail/4607)
 
+![harry platt](assets/images/harry-platt.jpg){: .align-center}
+
+We cannot leave this section without mentioning probably the most famous surgeon of them all at Ancoats Hospital – Sir Harry Platt. Harry Platt was the man who created the very first fracture clinic in the country and later was awarded the title of Sir Harry Platt. You can watch a film of the great man below. Mr Platt the surgeon believes he contributed towards England winning the Ashes in 1932 – if you watch this film you will understand why.
+
+{% include video id="1GT5Bj15s88iU7j51l9riKgUVu-39OCg6" provider="google-drive" %}

@@ -3,9 +3,16 @@ title: "Demolition of Hospital"
 permalink: "/demolition-of-hospital"
 layout: "single"
 header:
-  image: /assets/images/demolition.jpg
+  image: /assets/images/flickr/banners/demolition.jpg
 sidebar:
   nav: "timeline"
+gallery:
+  - url: /assets/images/flickr/demolition-of-hospital/the-dispensary.jpg
+    image_path: /assets/images/flickr/demolition-of-hospital/the-dispensary.jpg
+    alt: "The Dispensary"
+  - url: /assets/images/overhead.jpg
+    image_path: /assets/images/overhead.jpg
+    alt: "Overhead view of dispensary"
 ---
 
 ### Ancoats Hospital in Danger of Demolition
@@ -24,6 +31,8 @@ A new planning application and listed building application was not made at the t
 
 When the Coalition government came into power, funding for regeneration projects was immediately put at risk.  The funding agreement between the developer and the NWDA was not executed prior to the work starting, although it is indicated in documents that the developer was encouraged to carry out the work in full knowledge of this.  So, despite having received a million pounds in funding from NWDA for pre-approval expenditure, when this funding was withdrawn and couldn’t be reversed, the Developer did not have the financial resources to continue with bringing the building into a safe, weather-tight shell condition.  For some reason, the roof had been removed and, once this had happened, the internal walls, floors window frames, staircases etc were exposed to the weather.  Attempts were made to seek funding assistance from various heritage groups, but to no avail and the Dispensary went up for sale.
 
-![for sale](assets/images/for-sale.jpg){: .align-center}
+![for sale](assets/images/flickr/demolition-of-hospital/for-sale.jpg){: .align-center}
 
 This was a Grade II listed building of significant historical importance to Manchester and particularly Ancoats.  With no buyers, the application to demolish this building began its journey through the Planning Department.
+
+{% include gallery %}

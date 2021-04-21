@@ -3,7 +3,7 @@ title: "Formation of Ancoats Dispensary Trust"
 permalink: "/formation-of-ancoats-dispensary-trust"
 layout: "single"
 header:
-  image: /assets/images/adt-header.jpg
+  image: /assets/images/flickr/banners/hlf.jpg
 sidebar:
   nav: "timeline"
 ---
@@ -33,3 +33,5 @@ A special purpose vehicle was set up between ourselves and Igloo and this became
 The Group changed from being a campaign group to a development group so that local organisations, individuals, funding organisations and professional organisations could promote our cause and support us in our efforts.  
 
 We became the **Ancoats Dispensary Trust**. 
+
+![adt logo](assets/images/flickr/formation-of-ancoats-dispensary-trust/logo.jpg){: .align-center}

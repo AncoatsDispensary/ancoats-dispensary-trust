@@ -3,7 +3,7 @@ title: "Funding Rejection"
 permalink: "/funding-rejection"
 layout: "single"
 header:
-  image: /assets/images/funding-header.jpg
+  image: /assets/images/flickr/hlf/2.jpg
 sidebar:
   nav: "timeline"
 ---
@@ -15,4 +15,4 @@ With a time-frame of only 18 months, we recognized that raising the approximatel
 
 ## Building returned to MCC
 
-The decision to return the Dispensary to Urban Splash was taken in 2017 and since then, the Dispensary has passed from Urban Splash into the hands of Manchester City Council. It is our understanding that MCC are in talks with Great Places Housing Trust about the future of the Dispensary and we hope that even now the Dispensary, having clung on for this long, will not be demolished, but sensitively retained as a reminder of her  importance in the history of Manchester. 
+Having survived this long, it is our intention to do all we can to ensure that the Dispensary will not be demolished but sensitively retained as a reminder of her importance in the history of Manchester.  We have learned that Great Places Housing Trust are to hold public consultations, along with other developers about proposals at several sites in Ancoats and New Islington.  Great Places have indicated that they are taking responsibility for the Dispensary site and will be developing the site for affordable housing preserving as much of the heritage features as possible.  Please see our Twitter and Facebook pages for updates. 

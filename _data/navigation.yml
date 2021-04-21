@@ -31,6 +31,10 @@ timeline:
         url: /public-consultation-2013
       - title: "Formation of Ancoats Dispensary Trust"
         url: /formation-of-ancoats-dispensary-trust
+      - title: "Fundraising in Ancoats"
+        url: /fundraising-in-ancoats
+      - title: "Patrons"
+        url: /patrons
 
   - title: Fundraising Events
     children:
@@ -38,23 +42,23 @@ timeline:
         url: /burger-night
       - title: "Party in the Park"
         url: /party-in-the-park
-      - title: "Andy Hickmott Poem"
-        url: /andy-hickmott-poem
+      - title: "Night of Art"
+        url: /night-of-art
+      - title: "Heritage Fairs"
+        url: /heritage-fairs
       - title: "Share the Vision"
         url: /share-the-vision
-      - title: "Lucy Powell's Video"
-        url: /lucy-powells-video
 
   - title: Collaborations
     children:
+      - title: "Creating our Future Histories"
+        url: /creating-our-future-histories
+      - title: "Manchester School of Art & Design"
+        url: /manchester-school-of-art-and-design
+      - title: "Upper Space Arts Collective"
+        url: /upper-space-arts-collective
       - title: "Manchester Histories Festival 2016"
         url: /manchester-histories-festival-2016
-      - title: "Manchester School of Art - Film Production"
-        url: /film-production
-      - title: "Glass Exhibition"
-        url: /glass-exhibition
-      - title: "Ancoats in 100 Objects"
-        url: https://ancoatsdispensary100.wordpress.com/
 
   - title: Funding
     children:
