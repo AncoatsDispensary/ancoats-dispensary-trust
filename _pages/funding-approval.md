@@ -55,8 +55,6 @@ Money was used for professional fees and safeguarding works. These included chan
 
 [Don't tell people your dreams. Show them.](https://fb.watch/34k735_fYy/)
 
-![celebration](assets/images/flickr/stage-1-funding-approval/celebration.jpg){: .align-center}
-
 ![hlf](assets/images/flickr/hlf/12.jpg){: .align-center}
 
 ![hlf](assets/images/flickr/hlf/13.jpg){: .align-center}
