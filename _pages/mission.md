@@ -6,7 +6,7 @@ header:
   image: /assets/images/flickr/banners/the-mission.jpg
 ---
 
-## Aims of Ancoats Dispensary Trust
+## The Mission Statement
 
 To promote the conservation and restoration of the Ancoats Dispensary for the benefit of the communities now living in the Ancoats and surrounding neighbourhoods. This supports the wider economic, social and cultural regeneration of Manchester.
 The Industrial Revolution had to begin in a specific place and that place was Manchester – more specifically Ancoats.  The history of Ancoats, and in particular the Ancoats Dispensary, does not belong only to Manchester.  It is a global heritage treasure and belongs to the world.
