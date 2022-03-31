@@ -12,7 +12,6 @@ gallery:
     alt: "Public consultation"
 ---
 
-
 In order to apply for funding, prepare a governance structure, engage with other organisations, open a bank account and develop a legal structure initially we had to find out from the community itself whether they wanted to retain the Dispensary for a future sustainable community venue.  We needed to know if there was an appetite for the Dispensary to be restored before we applied for funding to the Heritage Lottery Fund.
 
 A Community Questionnaire was devised and distributed throughout the area to libraries, public houses, churches, housing offices, hairdressers, fish and chip shops and other community venues.  People were encouraged to complete the Questionnaire and we returned to collect them after 2 weeks.
