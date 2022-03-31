@@ -13,7 +13,10 @@ gallery:
   - url: /assets/images/overhead.jpg
     image_path: /assets/images/overhead.jpg
     alt: "Overhead view of dispensary"
+   
 ---
+<p align="right"><em>The photograph was taken by Brian Stark.<//em></p>
+
 
 ### Ancoats Hospital in Danger of Demolition
 
@@ -25,14 +28,16 @@ In February 2005, a re-designed scheme for the Dispensary was proposed, introduc
 
 In April 2009, close to the completion of Chips, MCC raised concerns over the deterioration of the brick gables on Upper Kirby Street.  As a result, three pikes were removed and dismantled.  In May, an unsuitable scaffold structure, which was to be used as a temporary retention, was erected by the developer to supposedly secure the elevation.
 
-An approach was made to the then North West Development Agency to safeguard the building and they granted funding of one million pounds in January 2010.  The funding was to be subject to obligations on the part of Urban Splash to complete the conversion of the building for office use when market conditions made this viable and bank funding was available which met the NWDA funding criteria.
+An approach was made to the then North West Development Agency to safeguard the building and they granted pre-approval funding of £100,000 in January 2010. The funding was to be subject to obligations on the part of Urban Splash to complete the conversion of the building for office use when market conditions made this viable and bank funding was available that met the NWDA funding criteria.
 
 A new planning application and listed building application was not made at the time due to the need to progress work quickly and MCC planners suggested that repairs within the existing consents could commence and materials salvaged for use in reconstruction.  This funding from the NWDA was to allow the developer to bring the building into a safe, weather-tight shell condition which could be effectively mothballed for future refurbishment. This work included repairs to the roof, internal and external masonry walls, floors and windows.  Orginially, the full amount of funding was to be spent by the end of March 2010, however an extension was granted until July 2010.
 
-When the Coalition government came into power, funding for regeneration projects was immediately put at risk.  The funding agreement between the developer and the NWDA was not executed prior to the work starting, although it is indicated in documents that the developer was encouraged to carry out the work in full knowledge of this.  So, despite having received a million pounds in funding from NWDA for pre-approval expenditure, when this funding was withdrawn and couldn’t be reversed, the Developer did not have the financial resources to continue with bringing the building into a safe, weather-tight shell condition.  For some reason, the roof had been removed and, once this had happened, the internal walls, floors window frames, staircases etc were exposed to the weather.  Attempts were made to seek funding assistance from various heritage groups, but to no avail and the Dispensary went up for sale.
+When the Coalition government came into power this meant that a freeze on spending occurred and the NWDA was dissolved.  Funding for regeneration projects was immediately put at risk. The funding agreement between the developer and the NWDA was not executed prior to the work starting and so the grant approval for £1million was withdrawn.  So, although having received a total of £100,000 in funding from NWDA for pre-approval expenditure, when funding was withdrawn the safeguarding works were halted. The Developer made representations to the NWDA to have the funding reinstated, given the circumstances and intent of the parties involved, but the decision could not be reversed.  It would seem that the Developer did not have the financial resources to continue with bringing the building into a safe, weather-tight shell condition. Attempts were made to seek funding assistance from various heritage groups and alternatives solutions were sought, but to no avail and the Dispensary went up for sale.
 
 ![for sale](assets/images/flickr/demolition-of-hospital/for-sale.jpg){: .align-center}
 
 This was a Grade II listed building of significant historical importance to Manchester and particularly Ancoats.  With no buyers, the application to demolish this building began its journey through the Planning Department.
 
 {% include gallery %}
+
+<p align="left"><em>Photograph was taken by Brian Stark.<//em></p><p align="right"><em>Photograph was taken by Keith Trainor.<//em></p>
