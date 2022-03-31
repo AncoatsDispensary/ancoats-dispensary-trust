@@ -21,3 +21,5 @@ A Community Questionnaire was devised and distributed throughout the area to lib
 {% include gallery caption="Consultation visit to Mayes Gardens, Every Street by the ADT Secretary (Babs) and the ADT Community Co-ordinator (Linda)" %}
 
 As well as the Questionnaire, the group, supported by volunteers from Manchester University, spent 2 week-ends going from door-to-door with questions and asking the residents for ideas that could be fed back and collated as evidence.  As a result of this work the Public Consultation document was produced.
+
+![Public Consultation](assets/images/public-consulation.jpeg){: .align-center}
