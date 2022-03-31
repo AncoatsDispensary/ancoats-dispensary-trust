@@ -10,7 +10,7 @@ main:
   #   url: /sitemap/
 
 timeline:
-  - title: Timeline
+  - title: History
     children:
       - title: "History of Ancoats Hospital"
         url: /history
@@ -31,13 +31,13 @@ timeline:
         url: /public-consultation-2013
       - title: "Formation of Ancoats Dispensary Trust"
         url: /formation-of-ancoats-dispensary-trust
-      - title: "Fundraising in Ancoats"
-        url: /fundraising-in-ancoats
-      - title: "Patrons"
-        url: /patrons
 
   - title: Fundraising Events
     children:
+      - title: "Fundraising in Ancoats"
+        url: /fundraising-in-ancoats
+      - title: "Share the Vision"
+        url: /share-the-vision
       - title: "Burger Night"
         url: /burger-night
       - title: "Party in the Park"
@@ -46,8 +46,6 @@ timeline:
         url: /night-of-art
       - title: "Heritage Fairs"
         url: /heritage-fairs
-      - title: "Share the Vision"
-        url: /share-the-vision
 
   - title: Collaborations
     children:
@@ -69,7 +67,5 @@ timeline:
 
   - title: What's happening now?
     children:
-      - title: "Ancoats Dispensary Trust Twitter"
-        url: https://twitter.com/twitdispensary?lang=en
-      - title: "Ancoats Dispensary Trust Facebook"
-        url: https://www.facebook.com/saveancoatsdispensary/
+      - title: "Patrons"
+        url: /patrons
