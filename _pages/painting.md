@@ -28,6 +28,9 @@ The painting was to become one of Lowry’s most famous works, *‘The Outpatien
 
 ![harry platt](assets/images/harry-platt.jpg){: .align-center}
 
-We cannot leave this section without mentioning probably the most famous surgeon of them all at Ancoats Hospital – Sir Harry Platt. Harry Platt was the man who created the very first fracture clinic in the country and later was awarded the title of Sir Harry Platt. You can watch a film of the great man below. Mr Platt the surgeon believes he contributed towards England winning the Ashes in 1932 – if you watch this film you will understand why.
+We cannot leave this section without mentioning probably the most famous surgeon of them all at Ancoats Hospital – Sir Harry Platt. Harry Platt was the man who created the very first fracture clinic in the country and later was awarded the title of Sir Harry Platt. Below are the words of Sir Harry Platt taken from his foreword to the book ‘150th Anniversary 1828-1978’.
+
+“The hospital in Mill Street, regarded by an envious few as a backwater, has on occasion impinged on affairs of national importance.  Such an occasion was Tuesday, June 21st, 1932, the third day of the North v South match at Old Trafford – a fixture designed to enable the M.C.C. Selection Committee to make a final choice of the Test team to go to Australia.  On that afternoon I was coming to the end of my large Out-Patient Clinic (crowded with students) when a telephone call came asking me to come to Old Trafford to examine the knee of Harold Larwood which had given trouble on the first day of the match and over the weekend.  I arrived at the cricket ground during the tea interval, examined the famous fast bowler’s knee, went before the Selection Committee, chaired by P.F. Warner, and (with some trepidation) pronounced my verdict – “take him to Australia”.  The sequel of the story is cricket history – the body line bowling controversy – and we brought back the Ashes!”
+
 
 {% include video id="1GT5Bj15s88iU7j51l9riKgUVu-39OCg6" provider="google-drive" %}
