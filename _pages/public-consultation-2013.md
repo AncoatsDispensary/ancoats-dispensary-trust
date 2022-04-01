@@ -6,11 +6,9 @@ header:
   image: /assets/images/flickr/banners/the-mission.jpg
 sidebar:
   nav: "timeline"
-gallery:
-  - url: assets/images/consultation.jpg
-    image_path: /assets/images/consultation.jpg
-    alt: "Public consultation"
 ---
+
+![Public Consultation](assets/images/consultation.jpg){: .align-center}
 
 In order to apply for funding, prepare a governance structure, engage with other organisations, open a bank account and develop a legal structure initially we had to find out from the community itself whether they wanted to retain the Dispensary for a future sustainable community venue.  We needed to know if there was an appetite for the Dispensary to be restored before we applied for funding to the Heritage Lottery Fund.
 
