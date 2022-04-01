@@ -3,7 +3,7 @@ title: "Andy Hickmott, our Poet in Residence"
 permalink: "/andy-hickmott"
 layout: "single"
 header:
-  image: /assets/images/flickr/collaborations-creating-our-future-histories/13a future histories.jpeg
+  image: /assets/images/andy-hickmott-banner.jpg
 sidebar:
   nav: "timeline"
 ---
@@ -12,7 +12,7 @@ sidebar:
 
 It was during this period that Andy Hickmott, who was completing an MA in Creative Writing at Manchester Metropolitan University and studying poetry under the direction of the Poet Laureate, Carol Ann Duffy, offered to become our ‘Poet in Residence’.
 
-Andy became so inspired by the story of the Dispensary that for one of his final pieces of work he wrote a book of poetry entitled in:dispensable.  The italic is not a mistake but the way Andy has named his book.  Andy had his book published and donated copies to ADT to sell at fundraising events.   These are a few of his final poems about the Dispensary with ‘Annie Coates’ as the building.
+Andy became so inspired by the story of the Dispensary that for one of his final pieces of work he wrote a book of poetry entitled _in:_ dispensable. The italic is not a mistake but the way Andy has named his book. Andy had his book published and donated copies to ADT to sell at fundraising events. These are a few of his final poems about the Dispensary with ‘Annie Coates’ as the building.
 
 ![Andy Hickmott Poem](assets/images/poem.jpg){: .align-center}
 
@@ -23,19 +23,15 @@ Andy became so inspired by the story of the Dispensary that for one of his final
 No one remembers Annie’s maiden name
 nor the street from which she wedded came,
 though, for sure, folk there must’ve hung the same
-
 grey saggy nets behind their peeling sashes,
 with steps a man paints and his woman washes
 (flaked and caked now as once were Annie’s)— 
-
 streets in the shadows of smokestacks steaming,
 streets you wouldn’t dream of being seen in
 for fear of young fellows minded for scuttling;
-
 streets that breathe like an asthmatic lung— 
 coughing out spent flesh through distraught iron
 gates, drawn back at next shift, and closing time.
-
 No one remembers the fuss that was made
 of her coming, the hoop-la proclamations said
 then carved on a stone they set over her head.
@@ -118,37 +114,6 @@ She dumps her wet coat in the cloakroom.
 Annie says nothing, grabs what she needs,
 gives a small boy who’s crying the orange. 
 
-### Mrs Coates in Retirement
-
-(1989)
-
-Sits and waits
-forgets why— 
-
-and what happened
-to that new estate
-
-they put up not long ago?
-The Cardroom or whathaveyou— 
-
-Did I dream all that?
-I was a nurse once, you know— 
-
-Where did all the children go?
-We loaded them on trains,
-
-sent them somewhere safe
-fitted with parcel tags.
-
-Where did they go?
-When did they come home?
-
-Why are there none
-playing in the street outside?
-
-Must be the Blitz,
-she decides.
-
 ### Mrs Coates, Reborn
 
 (2015)
@@ -170,3 +135,9 @@ turned on with generous libations of cash.
 
 Annie blinks out across the canal
 and wonders how best to love us now.
+
+![Andy Hickmott](assets/images/andy-hickmott-3.jpeg){: .align-center}
+{% include gallery caption="MMU Researchers with Patron June Rosen celebrating at Halle St Peter’s." %}
+
+![Andy Hickmott](assets/images/andy-hickmott-4.jpeg){: .align-center}
+{% include gallery caption="Andy Hickmott reading his poems at Halle St Peter’s." %}
