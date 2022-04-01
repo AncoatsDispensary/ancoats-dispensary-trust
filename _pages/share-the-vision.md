@@ -3,7 +3,7 @@ title: "Share the Vision"
 permalink: "/share-the-vision"
 layout: "single"
 header:
-  image: /assets/images/manchester-histories.jpg
+  image: /assets/images/share-the-vision-12c.jpeg
 sidebar:
   nav: "timeline"
 gallery:
@@ -23,6 +23,7 @@ gallery:
     image_path: /assets/images/flickr/fundraising-share-the-vision/7.jpg
     alt: "Share the vision"
 ---
+{% include gallery caption="Photography courtesy of [Brian Stark]" %}
 
 ![poster](assets/images/poster.jpg){: .align-right}
 
