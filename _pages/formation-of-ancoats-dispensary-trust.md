@@ -8,8 +8,6 @@ sidebar:
   nav: "timeline"
 ---
 
-### The Image of the Group to the World
-
 A petition began in July 2012 which gathered over 5000 signatures, not only from the Vigil, but from lots of community buildings throughout the neighbourhood.  The petition was handed in at First Street.   
 
 The campaign group felt that we should commission a surveyor to survey the Dispensary and report back regarding whether the building was beyond repair or whether it could be salvaged and brought back into usage.  Without any funds, there was only one option: ask the community to donate towards commissioning a surveyor.  We were not disappointed as we discovered the goodwill to support the saving of the Dispensary was as tremendous as we'd hoped. As a result, we soon managed to raise £600 to pay for the survey. 
@@ -35,3 +33,11 @@ The Group changed from being a campaign group to a development group so that loc
 We became the **Ancoats Dispensary Trust**. 
 
 ![adt logo](assets/images/flickr/formation-of-ancoats-dispensary-trust/logo.jpg){: .align-center}
+
+Throughout the campaign, the Trust produced several newsletters that were distributed throughout the neighbourhood and by email to the ADT membership.
+
+Below are the 6 newsletters.
+
+![Issue 6](assets/images/FINAL EDITION OF NEWSLETTER WINTER 2016.pdf){: .align-center}
+
+![Issue 6]<embed src="assets/images/FINAL EDITION OF NEWSLETTER WINTER 2016.pdf" type="application/pdf">
