@@ -38,6 +38,4 @@ Throughout the campaign, the Trust produced several newsletters that were distri
 
 Below are the 6 newsletters.
 
-![Issue 6](assets/images/FINAL EDITION OF NEWSLETTER WINTER 2016.pdf){: .align-center}
-
 <embed src="assets/images/FINAL EDITION OF NEWSLETTER WINTER 2016.pdf" type="application/pdf">
