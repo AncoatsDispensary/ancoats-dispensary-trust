@@ -44,6 +44,7 @@ With the threat of demolition continuing into early-2012, several meetings were 
 
 Within the space of a few days in early July 2012, this crude, primitive, yet highly effective structure of the Vigil would be built every morning by the more practical members of the group. The structure comprised of odd-shaped pieces of wood hammered together, as well as plastic sheeting for shelter during wet weather. This structure was taken down each evening and the same process would be repeated the next day. This sent out a clear message not only to the local community, but also to those in power: there would be strong resistance to the proposed demolition.
 
+{% include gallery %}
 {% include gallery caption="Photography courtesy of [Brian Stark](https://www.facebook.com/Brian-Stark-photography-227909870599755/)" %}
 
 The Vigil became a powerful symbol of community action. Despite demolition being ‘waived’ in May 2013, the vigil became a semi permanent fixture. a structure where several milestones throughout the years were celebrated. Everyone was invited to these celebrations. The Vigil remained a strong presence until late 2017. It is hard to imagine this taking place anywhere other than Manchester, but as the saying goes *“We do things differently here”*. With the offer of cup of tea and a biscuit or two, the vigil became the space on the edge of contested territory, where anyone, whoever they were or wherever they were from, could visit. People flocked to find out what was happening, take photographs, discuss the Dispensary and generally show their support.  
