@@ -32,7 +32,7 @@ The Group changed from being a campaign group to a development group so that loc
 
 We became the **Ancoats Dispensary Trust**. 
 
-![adt logo](assets/images/flickr/formation-of-ancoats-dispensary-trust/logo.jpg){: .align-center}
+<img src="assets/images/flickr/formation-of-ancoats-dispensary-trust/logo.jpg" width="200" height="200">
 
 Throughout the campaign, the Trust produced several newsletters that were distributed throughout the neighbourhood and by email to the ADT membership.
 
