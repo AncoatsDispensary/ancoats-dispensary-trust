@@ -39,10 +39,15 @@ Throughout the campaign, the Trust produced several newsletters that were distri
 Below are the 6 newsletters.
 
 <embed src="assets/images/FINAL EDITION OF NEWSLETTER WINTER 2016.pdf" type="application/pdf">
+
 <embed src="assets/images/ADT Newsletter Spring Summer edition 2015  Issue 4.pdf" type="application/pdf">
+
 <embed src="assets/images/ADT Newsletter Winter edition 2014 Issue 3.pdf" type="application/pdf">
+
 <embed src="assets/images/ADT Newsletter Winter edition 2015 No 5.pdf" type="application/pdf">
+
 <embed src="assets/images/Autumn Newsletter 2014.pdf" type="application/pdf">
+
 <embed src="assets/images/Summer Newsletter 2014 - Dispensary News.pdf" type="application/pdf">
 
 ### Directors of Ancoats Dispensary Trust
@@ -51,11 +56,18 @@ Below are the 6 newsletters.
 
 | Name of Directors  | Period served on the ADT Board |
 | ------------- | ------------- |
-| Carey Bamber | 14th December 2015 – 20th May 2020  |
-| Nick Bowles  | 11th November 2013 – 14th June 2021  |
-| Linda Carver  | 11th November 2013 – 14th June 2021  |
-| Paul Darnborough  | 14th December 2015 – 14th June 2021  |
-| Howell Davies   | 11th November 2013 - 20th August 2015  |
-| Angela El-Kholy   | 11th November 2014 – 28th January 2015  |
-| Trevor MacFarlane   | 14th December 2015 – 14th June 2021  |
-| Jackie Marston    | 11th November 2013 – 14th June 2021  |
+| Carey Bamber | 14th December 2015 – 20th May 2020 |
+| Nick Bowles | 11th November 2013 – 14th June 2021 |
+| Linda Carver | 11th November 2013 – 14th June 2021 |
+| Paul Darnborough | 14th December 2015 – 14th June 2021 |
+| Howell Davies | 11th November 2013 - 20th August 2015 |
+| Angela El-Kholy | 11th November 2014 – 28th January 2015 |
+| Trevor MacFarlane | 14th December 2015 – 14th June 2021 |
+| Jackie Marston | 11th November 2013 – 14th June 2021 |
+| Liam Ryan | 11th November 2013 – 9th May 2016 |
+| David T Shadbolt | 14th December 2015 – 27th July 2020 |
+| Patrick Sudlow | 11th November 2013 – 11th May 2015 |
+| Mark Watson | 11th November 2013 – 27th April 2016 |
+| Phillip J Welldrake | 11th November 2013 – 5th May 2016 |
+| Amy-Grace Whillans-Welldrake | 11th November 2013 – 14th June 2021 |
+| Barbara Whillans | 11th November 2013 – 5th May 2016 |
