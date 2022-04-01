@@ -39,3 +39,8 @@ Throughout the campaign, the Trust produced several newsletters that were distri
 Below are the 6 newsletters.
 
 <embed src="assets/images/FINAL EDITION OF NEWSLETTER WINTER 2016.pdf" type="application/pdf">
+<embed src="assets/images/ADT Newsletter Spring Summer edition 2015  Issue 4.pdf" type="application/pdf">
+<embed src="assets/images/ADT Newsletter Winter edition 2014 Issue 3.pdf" type="application/pdf">
+<embed src="assets/images/ADT Newsletter Winter edition 2015 No 5.pdf" type="application/pdf">
+<embed src="assets/images/Autumn Newsletter 2014.pdf" type="application/pdf">
+<embed src="assets/images/Summer Newsletter 2014 - Dispensary News.pdf" type="application/pdf">
