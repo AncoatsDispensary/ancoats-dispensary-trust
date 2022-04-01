@@ -43,4 +43,3 @@ Lucy Powell MP couldn’t attend the event but sent a message via video from Wes
 
 Below is the website of  Julian Bovis where he has written about how he came to paint and donate the painting to Ancoats Dispensary Trust.  You will find this on the Archive section of Julian’s website [www.julianbovis.com](www.julianbovis.com)
 
-{% include gallery %}
