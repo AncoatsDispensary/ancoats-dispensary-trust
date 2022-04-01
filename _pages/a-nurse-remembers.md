@@ -3,7 +3,7 @@ title: "A Nurse Remembers"
 permalink: "/a-nurse-remembers"
 layout: "single"
 header:
-  image: /assets/images/flickr/collaborations-creating-our-future-histories/13a future histories.jpeg
+  image: /assets/images/23 a nurse remembers-banner.jpeg
 sidebar:
   nav: "timeline"
 ---
