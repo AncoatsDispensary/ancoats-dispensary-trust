@@ -3,7 +3,7 @@ title: "Burger Night"
 permalink: "/burger-night"
 layout: "single"
 header:
-  image: /assets/images/flickr/banners/burger-night.jpg
+  image: /assets/images/flickr/fundraising-burger-night/12d burger night.jpeg
 sidebar:
   nav: "timeline"
 gallery:
