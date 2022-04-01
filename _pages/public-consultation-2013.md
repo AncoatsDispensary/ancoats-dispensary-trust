@@ -21,5 +21,5 @@ A Community Questionnaire was devised and distributed throughout the area to lib
 
 As well as the Questionnaire, the group, supported by volunteers from Manchester University, spent 2 week-ends going from door-to-door with questions and asking the residents for ideas that could be fed back and collated as evidence.  As a result of this work the Public Consultation document was produced.
 
-![Public Consultation](assets/images/public-consulation.jpeg){: .align-center}
+![Public Consultation] (assets/images/flickr/public-consultation-2013/public-consulation.jpeg){: .align-center}
 {% include gallery caption="Photograph by Brian Stark" %}
