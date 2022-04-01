@@ -40,4 +40,4 @@ Below are the 6 newsletters.
 
 ![Issue 6](assets/images/FINAL EDITION OF NEWSLETTER WINTER 2016.pdf){: .align-center}
 
-![Issue 6]<embed src="assets/images/FINAL EDITION OF NEWSLETTER WINTER 2016.pdf" type="application/pdf">
+<embed src="assets/images/FINAL EDITION OF NEWSLETTER WINTER 2016.pdf" type="application/pdf">
