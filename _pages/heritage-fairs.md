@@ -3,7 +3,7 @@ title: "Heritage Fairs"
 permalink: "/heritage-fairs"
 layout: "single"
 header:
-  image: /assets/images/flickr/banners/heritage-fairs.jpg
+  image: /assets/images/flickr/fundraising-heritage-fair/18 heritage fair-1-banner.jpeg
 sidebar:
   nav: "timeline"
 gallery:
@@ -29,3 +29,7 @@ The group made connections with other Heritage organisations in Manchester to no
 {% include gallery caption="Manchester Cathedral and John Rylands Library heritage fairs" %}
 
 At all these events people were able to purchase merchandise that had been created by artists who had donated their work.  Images of the Dispensary were printed on linen shopping bags, tea towels and mugs.  This was an important part of our fundraising efforts.
+
+The artists who contributed to our fundraising efforts were Janet Bray, Stephen M Campbell, Phillip Chin, Jill Woodward and Frances Martlew.
+
+![poster](assets/images/flickr/fundraising-heritage-fair/18 heritage fair-2.jpeg){: .align-centre}
