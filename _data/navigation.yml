@@ -51,10 +51,12 @@ timeline:
 
   - title: Collaborations
     children:
-      - title: "Andy Hickmott, our Poet in Residence"
-        url: /andy-hickmott
       - title: "Manchester Histories Festival 2016"
         url: /manchester-histories-festival-2016
+     - title: "Andy Hickmott, our Poet in Residence"
+        url: /andy-hickmott
+      - title: "A Nurse Remembers"
+        url: /a-nurse-remembers
       - title: "Manchester School of Art & Design"
         url: /manchester-school-of-art-and-design
       - title: "Upper Space Arts Collective"
