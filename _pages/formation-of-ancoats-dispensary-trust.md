@@ -52,8 +52,6 @@ Below are the 6 newsletters.
 
 ### Directors of Ancoats Dispensary Trust
 
-**Name of Directors and period served on the ADT Board**
-
 | Name of Directors  | Period served on the ADT Board |
 | ------------- | ------------- |
 | Carey Bamber | 14th December 2015 – 20th May 2020 |
