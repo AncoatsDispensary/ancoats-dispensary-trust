@@ -40,7 +40,6 @@ sidebar:
    - url: /assets/images/MSA/stephanie-taylor-existing-lift_51348187645_o.jpg
     image_path: /assets/images/MSA/stephanie-taylor-existing-lift_51348187645_o.jpg
     alt: "MSA"          
-    
 ---
 
 In 2013, a young group of film-makers (Bad Bug) asked us if they could be of any help?  We asked them to take part in a project with the **Manchester School of Art & Design** who were also interested in supporting the Ancoats Dispensary Trust.
