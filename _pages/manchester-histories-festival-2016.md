@@ -3,10 +3,10 @@ title: "Manchester Histories Festival 2016"
 permalink: "/manchester-histories-festival-2016"
 layout: "single"
 header:
-  image: /assets/images/flickr/collaborations-manchester-histories-festival-2016/5.jpg
+  image: /assets/images/51242432701_bae71b87c9_h.jpeg
 sidebar:
   nav: "timeline"
-gallery:
+# gallery:
   - url: /assets/images/glass/glass-1.jpg
     image_path: /assets/images/glass/glass-1.jpg
     alt: "Glass 1"
@@ -19,12 +19,6 @@ gallery:
   - url: /assets/images/glass/glass-5.jpg
     image_path: /assets/images/glass/glass-5.jpg
     alt: "Glass 5"
-  - url: /assets/images/glass/glass-6.jpg
-    image_path: /assets/images/glass/glass-6.jpg
-    alt: "Glass 6"
-  - url: /assets/images/glass/glass-7.jpg
-    image_path: /assets/images/glass/glass-7.jpg
-    alt: "Glass 7"
   - url: /assets/images/glass/glass-8.jpg
     image_path: /assets/images/glass/glass-8.jpg
     alt: "Glass 8"
@@ -34,6 +28,9 @@ gallery:
   - url: /assets/images/glass/glass-10.jpg
     image_path: /assets/images/glass/glass-10.jpg
     alt: "Glass 10"
+  - url: /assets/images/flickr/collaborations-manchester-histories-festival-2016/5.jpg
+    image_path: /assets/images/flickr/collaborations-manchester-histories-festival-2016/5.jpg 
+    alt: "Glass 101"
   - url: /assets/images/glass/glass-11.jpg
     image_path: /assets/images/glass/glass-11.jpg
     alt: "Glass 11"
@@ -82,18 +79,14 @@ gallery:
   - url: /assets/images/glass/glass-tall.jpg
     image_path: /assets/images/glass/glass-tall.jpg
     alt: "Glass 4"
-  - url: /assets/images/flickr/collaborations-manchester-histories-festival-2016/2.jpg
-    image_path: /assets/images/flickr/collaborations-manchester-histories-festival-2016/2.jpg
-    alt: "Glass 4"
+
 ---
 
-In 2016 having discovered so much about the history of glass manufacturing in Ancoats and as part of the Manchester Histories Festival 2016, the Ancoats Dispensary Trust held an exhibition at Bridge 5 Mill in Ancoats.  The exhibition was so successful it was extended from 4 days to 2 weeks. 
+In 2016 having discovered so much about the history of glass manufacturing in Ancoats and as part of the Manchester Histories Festival 2016, the Ancoats Dispensary Trust held an exhibition at Bridge 5 Mill in Ancoats.  The exhibition was so successful it was extended from 4 days to 2 weeks.
 
-{% include gallery %}
+![ADT Poster](assets/images/flickr/collaborations-manchester-histories-festival-2016/2.jpg){: .align-center}
 
 {% include video id="0Jk2TzayEAU" provider="youtube" %}
-
-![Glass](assets/images/even-more-glass.jpg){: .align-center}
 
 As early as 1785 Imison and King established a ‘glass house’ on Newton Lane.  Although short-lived the 19th century saw a concentration of the glass industry in Ancoats and by its heyday in the last quarter of the century there were nine glass works in production throughout the district.
 It was agreed that as part of the Ancoats Dispensary Trust’s Business Plan to establish an economic and sustainable model within the Dispensary, and in keeping with the ‘heritage’ aspect of Ancoats for translation into the 21st century, a small glasswork on the ground floor of the Dispensary should be explored. Historic connections of glassblowing within Ancoats meant that there was a level of support for the idea.   Technical feasibility studies were carried out by two UK glass-makers.  One provided the technical implications and the other the community possibilities. 
@@ -115,11 +108,19 @@ Contact was made with Manchester City Art Gallery as a few years earlier they ha
 Warrington Art Gallery had recently hosted a talk about the glass industry in Warrington and by making contact with the person who had given the presentation, it was discovered that the glassmakers of Ancoats originally came from Warrington. We met with the presenter who agreed to contribute on behalf of the Society of Glassmakers to our exhibition.  On discovering that ancestors of the early glassmakers were alive and well and living in Flixton, we contacted the family who very generously offered their help with loaning us exhibits and a history of their ancestry. 
 Visits were made to Manchester Metropolitan University to view their glass furnace, the equipment required and to hear how the students studying glass had to travel to St. Helens to use the only other furnace in the region once they had graduated from Manchester.  Pieces of glass and some tools were loaned to ADT for the purposes of the exhibition. 
 
-![Tools](assets/images/flickr/collaborations-manchester-histories-festival-2016/24.jpg){: .align-center}
+**The 1851 Great Exhibition was held at Crystal Palace, London**
 
 ![glass](assets/images/flickr/collaborations-manchester-histories-festival-2016/19.jpg){: .align-center}
+{% include gallery caption="Pink Decanter" %}
 
 ![glass](assets/images/flickr/collaborations-manchester-histories-festival-2016/21.jpg){: .align-center}
+{% include gallery caption="Pasha Vase" %}
+
+![glass](assets/images/glass/glass-15.jpg){: .align-center}
+{% include gallery caption="Halifax Jug" %}
+
+**Old glass-making tools**
+![Tools](assets/images/flickr/collaborations-manchester-histories-festival-2016/24.jpg){: .align-center}
 
 The above 2 images demonstrate the skills of the Ancoats glassmakers when they exhibited these items at the Great Exhibition in 1851
 For over a century the Ancoats glass industry thrived. Ancoats had produced much of Manchester’s glass, from elaborate swan-shaped vases to more humble jugs and bottles as well as a huge range of industrial glassware required by chemical firms. 
@@ -131,5 +132,15 @@ In the ‘Industry of All Nations’ section of the 1851 exhibition catalogue th
 The glass cutters from Bohemia were extremely skilled in engraving as well as cutting. One particular glass cutter came to Manchester to work for Andrew Ker in the Prussia Street Flint Glass Works. His name was **William Florian Pohl.** The Manchester Town Hall Goblet was engraved by Pohl and presented to the Lord Mayor in 1877.  The goblet itself can be viewed at the Town Hall by appointment
 
 Also dating from 1848, an advert appeared in the London Times from Molineaux & Webb, advertising for **"a first-rate glass engraver. A Bohemian would be preferred."**
+
+**Bridge 5 Venue**
+<img src="https://user-images.githubusercontent.com/74505335/163831937-17fa9756-886f-4f27-9d1f-99285d1639c4.jpeg" width="23%"></img> <img src="https://user-images.githubusercontent.com/74505335/163831949-5c3faef6-5c47-4d36-88c8-7048f3af85b1.jpeg" width="23%"></img> <img src="https://user-images.githubusercontent.com/74505335/163831955-c5add6b2-0ff6-4929-8a6e-a9e8fbffcc47.jpeg" width="23%"></img> <img src="https://user-images.githubusercontent.com/74505335/163831964-e424f4bc-7393-4645-841b-cdc9bfc806ea.jpeg" width="23%"></img> 
+
+**Contemporary glass on loan from Manchester Metropolitan University**
+![glass](assets/images/even-more-glass.jpg){: .align-center}
+
+**Images of glass exhibits kindly loaned by The Manchester Glass Society to Ancoats Dispensary Trust specifically for ADT’s contribution to the Manchester Histories Festival 2016.**
+
+
 
 ![goblet](assets/images/goblet.png){: .align-center}
