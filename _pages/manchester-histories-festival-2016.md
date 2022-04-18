@@ -6,7 +6,7 @@ header:
   image: /assets/images/51242432701_bae71b87c9_h.jpeg
 sidebar:
   nav: "timeline"
-# gallery:
+gallery:
   - url: /assets/images/glass/glass-1.jpg
     image_path: /assets/images/glass/glass-1.jpg
     alt: "Glass 1"
