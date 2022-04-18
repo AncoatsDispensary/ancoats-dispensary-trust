@@ -3,7 +3,7 @@ title: "Heritage Lottery Funding Application 2013"
 permalink: "/heritage-lottery-funding-application-2013"
 layout: "single"
 header:
-  image: /assets/images/flickr/banners/hlf.jpg
+  image: /assets/images/flickr/other-sample-pages/funding.jpg
 sidebar:
   nav: "timeline"
 
