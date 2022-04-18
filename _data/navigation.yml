@@ -68,6 +68,8 @@ timeline:
 
   - title: Funding
     children:
+      - title: Heritage Lottery Funding Application 2013
+      - url: /heritage-lottery-funding-application-2013
       - title: "Stage 1 Funding Approval"
         url: /funding-approval
       - title: "Stage 2 Funding Rejection"
