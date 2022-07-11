@@ -79,5 +79,7 @@ timeline:
 
   - title: What's happening now?
     children:
+      - title: "Message from the board"
+        url: /message-from-the-board
       - title: "Patrons"
         url: /patrons
