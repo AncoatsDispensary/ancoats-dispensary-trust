@@ -3,10 +3,12 @@ title: "Patrons"
 permalink: "/patrons"
 layout: "single"
 header:
-  image: /assets/images/flickr/banners/the-mission.jpg
+  image: /assets/images/Flickr banner image No 31. Patrons.png
+sidebar:
+  nav: "timeline"
 ---
 
-
+{% include gallery caption="Copyright Liz Ackerley" %}
 
 {% include figure image_path="/assets/images/flickr/patrons/2.jpg" alt="June Rosen" caption="June Rosen, Patron of ADT, alongside Dr Michael Whitfield, GP and author of The Dispensaries: Healthcare for the Poor Before the NHS: Britain’s Forgotten Health-care System Dispensaries: An Alternative to General Practice?" %}
 
