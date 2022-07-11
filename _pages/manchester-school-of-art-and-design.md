@@ -6,7 +6,7 @@ header:
   image: /assets/images/manchester school of art-banner.jpeg
 sidebar:
   nav: "timeline"
-  gallery:
+gallery:
   - url: /assets/images/MSA/-31-07-2021-10-02-12_51347162231_o.jpg
     image_path: /assets/images/MSA/-31-07-2021-10-02-12_51347162231_o.jpg
     alt: "MSA"
@@ -48,6 +48,6 @@ The students were asked to work on conceptual ideas for the Dispensary, bearing 
 
 {% include video id="1t6OFnYdNpyKuDhY9FQ33NPYNMuzi9yhP" provider="google-drive" %}
 
+{% include gallery %}
 
 {% include gallery caption="Hala Ali, Lea Daste, Stephanie Taylor, Alice Philipson and Amy Stevenson, students at Manchester School of Art, Department of Interior Design. Our thanks to Simone Ridyard, Tutor, at MMU." %}
-
