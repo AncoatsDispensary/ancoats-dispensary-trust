@@ -31,7 +31,8 @@ It was early in 2014 that the application to the Heritage & Enterprise Scheme wa
 
 The Group felt that rather than wait for months for a decision that may be negative, we should celebrate the group’s efforts up to this point in time and share an evening with the public, other organisations, our Patrons and other VIP’s who had supported us along our journey.  The event was held at Halle St Peters in Ancoats and over 300 invited guests attended.  
 
-Brickhouse Films, a local film company, had heard about the campaign and wanted to help.  This film was their contribution to the evening.
+Brickhouse Films, a local film company, had heard about the campaign and wanted to help. This film was their contribution to the evening.
+
 
 {% include video id="1qA3JDHh6nM3cyAsW2BjknLTPenYBxCAs" provider="google-drive" %}
 
