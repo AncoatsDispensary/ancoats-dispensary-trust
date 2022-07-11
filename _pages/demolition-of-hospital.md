@@ -15,8 +15,7 @@ gallery:
     alt: "Overhead view of dispensary"
    
 ---
-<p align="right"><em>The photograph was taken by Brian Stark.<//em></p>
-
+{% include gallery caption="The photograph was taken by Brian Stark." %}
 
 ### Ancoats Hospital in Danger of Demolition
 
@@ -40,4 +39,4 @@ This was a Grade II listed building of significant historical importance to Manc
 
 {% include gallery %}
 
-<p align="left"><em>Photograph was taken by Brian Stark.<//em></p><p align="right"><em>Photograph was taken by Keith Trainor.<//em></p>
+{% include gallery caption="Photographs taken by Brian Stark & Keith Trainor" %}
