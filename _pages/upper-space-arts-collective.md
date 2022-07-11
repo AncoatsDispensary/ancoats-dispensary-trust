@@ -10,9 +10,6 @@ gallery:
   - url: /assets/images/flickr/collaborations-upper-arts-collective/3.jpg
     image_path: /assets/images/flickr/collaborations-upper-arts-collective/3.jpg
     alt: "Upper Space Arts Collective"
-  - url: /assets/images/flickr/collaborations-upper-arts-collective/1.jpg
-    image_path: /assets/images/flickr/collaborations-upper-arts-collective/1.jpg
-    alt: "Upper Space Arts Collective"
   - url: /assets/images/flickr/collaborations-upper-arts-collective/4.jpg
     image_path: /assets/images/flickr/collaborations-upper-arts-collective/4.jpg
     alt: "Upper Space Arts Collective"
@@ -39,10 +36,7 @@ gallery:
     alt: "Upper Space Arts Collective"     
   - url: /assets/images/upper space arts collective/-31-07-2021-10-04-38_51347890799_o.jpg
     image_path: /assets/images/upper space arts collective/-31-07-2021-10-04-38_51347890799_o.jpg
-    alt: "Upper Space Arts Collective"         
-  - url: /assets/images/upper space arts collective/-31-07-2021-10-04-55_51347373233_o.jpg
-    image_path: /assets/images/upper space arts collective/-31-07-2021-10-04-55_51347373233_o.jpg
-    alt: "Upper Space Arts Collective"   
+    alt: "Upper Space Arts Collective"          
   - url: /assets/images/upper space arts collective/-31-07-2021-10-05-08_51347143406_o.jpg
     image_path: /assets/images/upper space arts collective/-31-07-2021-10-05-08_51347143406_o.jpg
     alt: "Upper Space Arts Collective"      
@@ -57,7 +51,13 @@ gallery:
     alt: "Upper Space Arts Collective"   
   - url: /assets/images/upper space arts collective/-31-07-2021-9-55-05_51347373378_o.jpg
     image_path: /assets/images/upper space arts collective/-31-07-2021-9-55-05_51347373378_o.jpg
-    alt: "Upper Space Arts Collective"       
+    alt: "Upper Space Arts Collective"  
+  - url: /assets/images/flickr/collaborations-upper-arts-collective/1.jpg
+    image_path: /assets/images/flickr/collaborations-upper-arts-collective/1.jpg
+    alt: "Upper Space Arts Collective"
+  - url: /assets/images/upper space arts collective/-31-07-2021-10-04-55_51347373233_o.jpg
+    image_path: /assets/images/upper space arts collective/-31-07-2021-10-04-55_51347373233_o.jpg
+    alt: "Upper Space Arts Collective"  
     
 ---
 
