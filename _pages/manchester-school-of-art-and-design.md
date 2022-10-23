@@ -46,8 +46,6 @@ In 2013, a young group of film-makers (Bad Bug) asked us if they could be of any
 
 The students were asked to work on conceptual ideas for the Dispensary, bearing in mind the elements of sustainability and employment
 
-{% include video id="1t6OFnYdNpyKuDhY9FQ33NPYNMuzi9yhP" provider="google-drive" %}
-
 {% include gallery %}
 
 {% include gallery caption="Hala Ali, Lea Daste, Stephanie Taylor, Alice Philipson and Amy Stevenson, students at Manchester School of Art, Department of Interior Design. Our thanks to Simone Ridyard, Tutor, at MMU." %}
