@@ -58,6 +58,10 @@ This was the painting produced by Stephen on that day.
 
 Painting of the Dispensary by artist Stephen Maxwell Campbell
 
+![Vigil Visitors](assets/images/The VigilVisitors1.png){: .align-center}
+
+Visitors from all around the world came to the Vigil, such as this group of academics visiting Manchester for the conference relating to Medicine, Science and Industry.  Students from both universities in the city were inspired to focus their work on this unique campaign. This group of people you see above came from Canada, Australia, South Africa, America and Germany.  
+
 ### The Petition
 
 A petition to gather support for the restoration of the Dispensary began at The Vigil and over 5,000 signatures were gathered, not just from outside the Dispensary but from those organisations throughout the neighbourhood who supported our efforts. The petition was handed in to Manchester City Council’s Planning Department at First Street, Manchester.
