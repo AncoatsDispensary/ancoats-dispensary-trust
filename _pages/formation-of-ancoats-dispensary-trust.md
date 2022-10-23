@@ -3,7 +3,7 @@ title: "Formation of Ancoats Dispensary Trust"
 permalink: "/formation-of-ancoats-dispensary-trust"
 layout: "single"
 header:
-  image: /assets/images/flickr/banners/hlf.jpg
+  image: /assets/images/Formation of Ancoats Dispensary Trust.png
 sidebar:
   nav: "timeline"
 ---
