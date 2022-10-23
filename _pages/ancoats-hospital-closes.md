@@ -3,7 +3,7 @@ title: "Ancoats Hospital Closes"
 permalink: "/ancoats-hospital-closes"
 layout: "single"
 header:
-  image: /assets/images/flickr/banners/the-mission.jpg
+  image: /assets/images/AncoatsHospitalCloses.png
 sidebar:
   nav: "timeline"
 gallery:
