@@ -3,7 +3,7 @@ title: "Public Consultation 2013"
 permalink: "/public-consultation-2013"
 layout: "single"
 header:
-  image: /assets/images/flickr/banners/the-mission.jpg
+  image: /assets/images/Public Consultation 2013.png
 sidebar:
   nav: "timeline"
 ---
