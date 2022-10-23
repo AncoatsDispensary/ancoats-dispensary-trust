@@ -3,7 +3,7 @@ main:
   - title: "The Mission"
     url: /mission
   - title: "Timeline"
-    url: /history
+    url: /timeline
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
