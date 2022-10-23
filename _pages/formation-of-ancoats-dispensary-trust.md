@@ -8,6 +8,8 @@ sidebar:
   nav: "timeline"
 ---
 
+{% include gallery caption="Copyright Brian Stark" %}
+
 A petition began in July 2012 which gathered over 5000 signatures, not only from the Vigil, but from lots of community buildings throughout the neighbourhood.  The petition was handed in at First Street.   
 
 The campaign group felt that we should commission a surveyor to survey the Dispensary and report back regarding whether the building was beyond repair or whether it could be salvaged and brought back into usage.  Without any funds, there was only one option: ask the community to donate towards commissioning a surveyor.  We were not disappointed as we discovered the goodwill to support the saving of the Dispensary was as tremendous as we'd hoped. As a result, we soon managed to raise £600 to pay for the survey. 
