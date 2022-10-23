@@ -1,14 +1,13 @@
 ---
-title: ""
+title: "History of Ancoats Hospital"
 permalink: "/history"
 layout: "single"
 header:
-  image: /assets/images/flickr/banners/history.jpg
+  image: /assets/images/Fundraising in Ancoats-Nurses.jpeg
 sidebar:
   nav: "timeline"
 ---
 
-![timeline](assets/images/history-timeline.jpg){: .align-center}
 
 ![ancoats hospital](assets/images/history-inline.jpg){: .align-center}
 ## History of Ancoats Hospital
@@ -17,7 +16,7 @@ Up until 1825, the Manchester Infirmary (situated in Piccadilly since 1755) had 
 
 Ancoats was built in a hurry to house the thousands of workers and families who came to work in the mills and factories.  Medical needs outran supplies and the Ardwick and Ancoats Dispensary was one of three medical charities (alongside Salford and Chorlton upon Medlock) to provide medical services. 
 
-Renowned throughout the country, the Dispensary was the workplace of James Kay, one of the first Doctors there in 1828, who wrote his infamous book _‘The Moral and Physical Conditions of the Working Classes employed in the Cotton Manfacture in Manchester’_ during his time working in Ancoats.  In his book, he wrote _“I was brought into contact with one of the poorest parts of Manchester, inhabited in the main by Irish labourers and factory workers.  Manchester in 1828 was an accumulation of social evils.  Lack of sanitation resulted in cellar dwellings so poorly drained that the floors were often underwater and sometimes I had to walk on bricks to reach my patients' beds with dry feet.  Streets were where refuse was dumped [and there was] no supply of water, no drainage, no control of slaughterhouses, no protection to women and children in the factories.  These were the conditions of the poor in Ancoats Manchester.  The workers lived to a great extent upon oatmeal and potatoes, spending their surplus earnings on drink and especially on whisky.”_
+Renowned throughout the country, the Dispensary was the workplace of James Kay who was one of the first doctors to work at the Dispensary in 1828 and later went on to write his famous book _‘The Moral and Physical Conditions of the Working Classes (published in 1832 in response to the cholera epidemic) employed in the Cotton Manufacture in Manchester’._ In his book, he wrote _“I was brought into contact with one of the poorest parts of Manchester, inhabited in the main by Irish labourers and factory workers.  Manchester in 1828 was an accumulation of social evils.  Lack of sanitation resulted in cellar dwellings so poorly drained that the floors were often underwater and sometimes I had to walk on bricks to reach my patients' beds with dry feet.  Streets were where refuse was dumped [and there was] no supply of water, no drainage, no control of slaughterhouses, no protection to women and children in the factories.  These were the conditions of the poor in Ancoats Manchester.  The workers lived to a great extent upon oatmeal and potatoes, spending their surplus earnings on drink and especially on whisky.”_
 
 As the cholera epidemic spread across Europe, it soon reached Manchester and it was only owing to James Kay and his writings that precautions were taken.  A voluntary committee was set up, houses were visited, unsanitary conditions reported, streets were scavenged and lodging houses whitewashed.  Temporary hospitals were set up and medical officers appointed to each. As a result of this, Kay was in charge of the Knott Mill Cholera Hospital. In his book,  Kay continued to describe the conditions around a group of houses lying immediately below Oxford Road and almost on the level of the polluted Medlock.   These houses belonged to a colony of Irish labourers and consequently came to be known as 'Irishtown'.  
 
