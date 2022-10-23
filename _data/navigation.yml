@@ -13,7 +13,7 @@ timeline:
   - title: History
     children:
       - title: "History of Ancoats Hospital"
-        url: /history
+        url: /historyofancoatshospital
       - title: "Painting by LS Lowry"
         url: /painting
       - title: "Ancoats Hospital Closes"
