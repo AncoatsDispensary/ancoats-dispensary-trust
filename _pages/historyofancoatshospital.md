@@ -1,6 +1,6 @@
 ---
-title: "Timeline"
-permalink: "/timeline"
+title: "History of Ancoats Hospital"
+permalink: "/historyofancoatshospital.md"
 layout: "single"
 header:
   image: /assets/images/archway-short.jpg
