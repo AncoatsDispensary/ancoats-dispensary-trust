@@ -1,6 +1,6 @@
 ---
 title: "History of Ancoats Hospital"
-permalink: "/historyofancoatshospital.md"
+permalink: "/history-of-ancoats-hospital.md"
 layout: "single"
 header:
   image: /assets/images/archway-short.jpg
