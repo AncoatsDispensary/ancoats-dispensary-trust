@@ -1,5 +1,3 @@
-{% include gallery caption="Copyright Brian Stark" %}
-
 ---
 title: "Formation of Ancoats Dispensary Trust"
 permalink: "/formation-of-ancoats-dispensary-trust"
@@ -10,6 +8,7 @@ sidebar:
   nav: "timeline"
 ---
 
+{% include gallery caption="Copyright Brian Stark" %}
 
 A petition began in July 2012 which gathered over 5000 signatures, not only from the Vigil, but from lots of community buildings throughout the neighbourhood.  The petition was handed in at First Street.   
 
