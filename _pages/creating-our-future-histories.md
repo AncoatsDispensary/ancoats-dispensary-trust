@@ -27,5 +27,6 @@ The two website links below is where you will find information produced by the M
 
 [Ancoats Dispensary Trust:: Creating Our Future Histories](https://ancoatsdispensarytrust.co.uk/futurehistories-121.html)
 
+![MMU Researchers with Patron, June Rosen, celebrating at Halle St Peter’s.](assets/images/MMU Researches with Patron, June Rosen celebrating at Halle St Peters.jpg){: .align-center}
 
-
+![Andy Hickmott reading his poems at Halle St Peter’s.](assets/images/Andy Hickmott poems.jpeg){: .align-center}
