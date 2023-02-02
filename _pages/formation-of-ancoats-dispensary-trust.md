@@ -36,22 +36,6 @@ We became the **Ancoats Dispensary Trust**.
 
 <img src="assets/images/flickr/formation-of-ancoats-dispensary-trust/logo.jpg" width="200" height="200">{: .align-center}
 
-Throughout the campaign, the Trust produced several newsletters that were distributed throughout the neighbourhood and by email to the ADT membership.
-
-Below are the 6 newsletters.
-
-<embed src="assets/images/FINAL EDITION OF NEWSLETTER WINTER 2016.pdf" type="application/pdf">
-
-<embed src="assets/images/ADT Newsletter Spring Summer edition 2015  Issue 4.pdf" type="application/pdf">
-
-<embed src="assets/images/ADT Newsletter Winter edition 2014 Issue 3.pdf" type="application/pdf">
-
-<embed src="assets/images/ADT Newsletter Winter edition 2015 No 5.pdf" type="application/pdf">
-
-<embed src="assets/images/Autumn Newsletter 2014.pdf" type="application/pdf">
-
-<embed src="assets/images/Summer Newsletter 2014 - Dispensary News.pdf" type="application/pdf">
-
 ### Directors of Ancoats Dispensary Trust
 
 | Name of Directors  | Period served on the ADT Board |
@@ -71,3 +55,21 @@ Below are the 6 newsletters.
 | Phillip J Welldrake | 11th November 2013 – 5th May 2016 |
 | Amy-Grace Whillans-Welldrake | 11th November 2013 – 14th June 2021 |
 | Barbara Whillans | 11th November 2013 – 5th May 2016 |
+
+
+Throughout the campaign, the Trust produced several newsletters that were distributed throughout the neighbourhood and by email to the ADT membership.
+
+Below are the 6 newsletters.
+
+<embed src="assets/images/FINAL EDITION OF NEWSLETTER WINTER 2016.pdf" type="application/pdf">
+
+<embed src="assets/images/ADT Newsletter Spring Summer edition 2015  Issue 4.pdf" type="application/pdf">
+
+<embed src="assets/images/ADT Newsletter Winter edition 2014 Issue 3.pdf" type="application/pdf">
+
+<embed src="assets/images/ADT Newsletter Winter edition 2015 No 5.pdf" type="application/pdf">
+
+<embed src="assets/images/Autumn Newsletter 2014.pdf" type="application/pdf">
+
+<embed src="assets/images/Summer Newsletter 2014 - Dispensary News.pdf" type="application/pdf">
+
