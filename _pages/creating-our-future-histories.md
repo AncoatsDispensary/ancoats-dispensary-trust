@@ -30,4 +30,8 @@ The two website links below is where you will find information produced by the M
 
 ![MMU Researchers with Patron, June Rosen, celebrating at Halle St Peter’s.](assets/images/MMU Researches with Patron, June Rosen celebrating at Halle St Peters.jpg){: .align-center}
 
+{% include gallery caption="MMU Researchers with Patron, June Rosen, celebrating at Halle St Peter’s" %}
+
 ![Andy Hickmott reading his poems at Halle St Peter’s.](assets/images/Andy Hickmott poems.jpeg){: .align-center}
+
+{% include gallery caption="Andy Hickmott reading his poems at Halle St Peter’s" %}
