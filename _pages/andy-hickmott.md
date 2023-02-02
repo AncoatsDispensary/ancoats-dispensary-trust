@@ -8,8 +8,6 @@ sidebar:
   nav: "timeline"
 ---
 
-![poster](assets/images/andy-hickmott.jpg){: .align-right}
-
 It was during this period that Andy Hickmott, who was completing an MA in Creative Writing at Manchester Metropolitan University and studying poetry under the direction of the Poet Laureate, Carol Ann Duffy, offered to become our ‘Poet in Residence’.
 
 Andy became so inspired by the story of the Dispensary that for one of his final pieces of work he wrote a book of poetry entitled _in:_ dispensable. The italic is not a mistake but the way Andy has named his book. Andy had his book published and donated copies to ADT to sell at fundraising events. These are a few of his final poems about the Dispensary with ‘Annie Coates’ as the building.
