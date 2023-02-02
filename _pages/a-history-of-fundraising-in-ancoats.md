@@ -22,9 +22,9 @@ In order to become a patient of Ancoats Dispensary, the poor needed to find some
 
 {% include figure image_path="/assets/images/flickr/history-of-ancoats-hospital/Fundraising in Ancoats-Nurses.jpeg" alt="Ancoats Hospital" caption="Ancoats Hospital" %}
 
-{% include figure image_path="/assets/images/daisy-day.png" alt="Daisy day parade" caption="Daisy Day Parade, 1923. Image courtesy of Manchester Libraries, Images and Archive." %}
-
 Postcards were made of this image and were sold to the general public by the nurses to help raise funds for the hospital.
+
+{% include figure image_path="/assets/images/daisy-day.png" alt="Daisy day parade" caption="Daisy Day Parade, 1923. Image courtesy of Manchester Libraries, Images and Archive." %}
 
 Daisy Day was an annual parade held to raise money for Ancoats Dispensary. Artificial daisies were sold in their thousands by flower girls throughout Manchester. There was also a parade, which set off from Market Street, and wound its way through the streets of Ancoats before ending at Belle Vue Gardens. The photograph above is from 1923 and shows children from Ancoats in fancy dress ready for the parade. “Greater Ancoats has done wonders to make the parade a success and it was fitting that its own people, rather than the more fashionable parts of the city, should see the show.” 
 
