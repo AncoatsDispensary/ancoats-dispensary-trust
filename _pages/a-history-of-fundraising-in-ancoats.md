@@ -1,6 +1,6 @@
 ---
-title: "Fundraising in Ancoats"
-permalink: "/fundraising-in-ancoats"
+title: "A History of Fundraising in Ancoats"
+permalink: "/a-history-of-fundraising-in-ancoats"
 layout: "single"
 header:
   image: /assets/images/flickr/banners/hlf-2.jpg
