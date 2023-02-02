@@ -15,7 +15,7 @@ gallery:
     alt: "Overhead view of dispensary"
    
 ---
-{% include gallery caption="The photograph was taken by Brian Stark." %}
+{% include gallery caption="Photographs taken by Brian Stark & Keith Trainor" %}
 
 ### Ancoats Hospital in Danger of Demolition
 
