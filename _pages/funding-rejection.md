@@ -1,5 +1,5 @@
 ---
-title: "Funding Rejection"
+title: "Stage 2 Funding Rejection"
 permalink: "/funding-rejection"
 layout: "single"
 header:
