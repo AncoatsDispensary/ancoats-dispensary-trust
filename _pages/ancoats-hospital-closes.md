@@ -27,6 +27,8 @@ Unfortunately, the removal of surgical and emergency beds from Ancoats was still
 ![protest](assets/images/flickr/closure-of-hospital/sit-in.jpg){: .align-right}
 This protest weathered a lack of resources and, in some cases, even family conflict until it finally came to an end, defeated ultimately by sheer exhaustion.  The most important outcome of the _‘sit-in’_ was that people had gained confidence, understood the health policies and had a determination to see things through.  This determination led to a community health resource being set up in the form of the *Ancoats Community Clinic*.
 
+A good reference book which covers the ‘sit in’ and the struggles they faced can be found in a book called ‘Stitched Up!  Action for Health in Ancoats’ written by Mary Catherine Dunne.  ISBN 1874115002.
+
 In many ways, the protest in 1989 prepared the ground many years later for the Ancoats Dispensary Trust to continue the fight for the heritage and future of the Dispensary.
 
 {% include gallery %}
