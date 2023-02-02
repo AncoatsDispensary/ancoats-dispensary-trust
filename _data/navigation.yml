@@ -81,7 +81,7 @@ timeline:
 
   - title: What's happening now?
     children:
-      - title: "Message from the board"
+      - title: "Message from the board of the Ancoats Dispensary Trust"
         url: /message-from-the-board
       - title: "Patrons"
         url: /patrons
