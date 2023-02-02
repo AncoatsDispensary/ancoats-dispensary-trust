@@ -36,5 +36,3 @@ When the Coalition government came into power this meant that a freeze on spendi
 ![for sale](assets/images/flickr/demolition-of-hospital/for-sale.jpg){: .align-center}
 
 This was a Grade II listed building of significant historical importance to Manchester and particularly Ancoats.  With no buyers, the application to demolish this building began its journey through the Planning Department.
-
-{% include gallery caption="Photographs taken by Brian Stark & Keith Trainor" %}
