@@ -7,7 +7,7 @@ header:
 sidebar:
   nav: "timeline"
 ---
-{% include gallery caption="Photography courtesy of [Brian Stark]" %}
+{% include gallery caption="Photography courtesy of Brian Stark" %}
 
 By the time the National Health Service was founded in 1948, Ancoats Dispensary had been providing medical care for the people of Ancoats for 120 years. Fundraising was a major part of hospital life. In wealthy areas, residents paid subscriptions to their local hospitals and dispensaries, or paid for the treatment they received. In industrial Ancoats, very few people could afford to commit to annual subscriptions to pay for the running of the Dispensary, or even for their own treatment. The largest subscribers were the churches and manufacturers within Ancoats, and it was on them that the poor depended to pay for their medical care. Ancoats Dispensary depended on wealthy benefactors and patrons for its expansion. 
 
