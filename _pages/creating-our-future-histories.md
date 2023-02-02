@@ -23,6 +23,7 @@ The academics did all the research about Ancoats and the Dispensary and to promo
 [Ancoats in 100 Objects.](https://ancoatsdispensary100.wordpress.com/)
 
 The two website links below is where you will find information produced by the Manchester Metropolitan University in relation to the Creating our Future Histories project.
+
 [COFH-Programme-Schedule.pdf](https://www.futurehistories.mmu.ac.uk/wp-content/uploads/2014/08/COFH-Programme-Schedule.pdf)
 
 [Ancoats Dispensary Trust:: Creating Our Future Histories](https://ancoatsdispensarytrust.co.uk/futurehistories-121.html)
