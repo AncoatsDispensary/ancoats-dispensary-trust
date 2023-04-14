@@ -30,7 +30,7 @@ The academics did all the research about Ancoats and the Dispensary and to promo
 
 {% include gallery caption="Andy Hickmott reading his poems at Halle St Peter’s" %}
 
-----
+
 
 ![Creating Our Future Histories](assets/images/creating-our-future-histories---logo012004.jpeg){: .align-right}
 
