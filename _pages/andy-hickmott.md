@@ -133,9 +133,3 @@ turned on with generous libations of cash.
 
 Annie blinks out across the canal
 and wonders how best to love us now.
-
-![Andy Hickmott](assets/images/andy-hickmott-3.jpeg){: .align-center}
-{% include gallery caption="MMU Researchers with Patron June Rosen celebrating at Halle St Peter’s." %}
-
-![Andy Hickmott](assets/images/andy-hickmott-4.jpeg){: .align-center}
-{% include gallery caption="Andy Hickmott reading his poems at Halle St Peter’s." %}
