@@ -54,7 +54,7 @@ Artist Stephen Campbell came to the Dispensary to paint the building. He just tu
 
 This was the painting produced by Stephen on that day.
 
-![Vigil Painting](assets/images/The Vigil.png){: .align-center}
+![Vigil Painting](assets/images/The-Vigil-opt.jpg){: .align-center}
 
 Painting of the Dispensary by artist Stephen Maxwell Campbell
 
