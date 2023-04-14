@@ -10,7 +10,6 @@ sidebar:
 
 
 ![ancoats hospital](assets/images/history-inline.jpg){: .align-center}
-## History of Ancoats Hospital
 
 Up until 1825, the Manchester Infirmary (situated in Piccadilly since 1755) had been the only medical institution in the city.  Attracted by the prospect of work, people flocked to the city and the population of Ancoats alone increased from 11,000 in 1831 to 56,000 in 1861.  
 
