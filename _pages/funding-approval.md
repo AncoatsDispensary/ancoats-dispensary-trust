@@ -25,7 +25,7 @@ The procurement process was moving forward and should be we successful then Purc
 
 In March 2014 our HLF application was rejected by the Heritage Lottery North West.  However, not to be daunted, we re-submitted the application following adjustments and in July 2014 we learned of our success. 
 
-![celebration](assets/images/flickr/stage-1-funding-approval/celebration.jpg){: .align-center}
+![celebration](assets/images/celebration-opt.jpg){: .align-center}
 
 {% include gallery caption="Members of the ADT Board and supporters outside the Dispensary celebrate their success on being granted Stage 1 Heritage & Enterprise funding." %}
 
