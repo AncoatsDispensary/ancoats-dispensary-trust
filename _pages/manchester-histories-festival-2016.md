@@ -32,7 +32,12 @@ Our thinking at the time was that the Heritage Lottery Fund would accept the pro
 The Dispensary would once again become a ‘working building’. Unfortunately, despite the reports providing the potential of locating a glass blowing studio on the ground floor, it was felt the predominant issue was the heavy servicing requirements and that the technical implications on the whole of the building would create difficulties.   It was, however, felt that the exhibition of glass for the Manchester Histories Festival should go ahead.
 
 Contact was made with Manchester City Art Gallery as a few years earlier they had held a small exhibition of Ancoats Glass.  Access to records, photographs and permission to use these items as part of the Manchester Histories Festival was granted. 
-Warrington Art Gallery had recently hosted a talk about the glass industry in Warrington and by making contact with the person who had given the presentation, it was discovered that the glassmakers of Ancoats originally came from Warrington. We met with the presenter who agreed to contribute on behalf of the Society of Glassmakers to our exhibition.  On discovering that ancestors of the early glassmakers were alive and well and living in Flixton, we contacted the family who very generously offered their help with loaning us exhibits and a history of their ancestry. 
+Warrington Art Gallery had recently hosted a talk about the glass industry in Warrington and by making contact with the person who had given the presentation, it was discovered that the glassmakers of Ancoats originally came from Warrington. We met with the presenter who agreed to contribute on behalf of the Society of Glassmakers to our exhibition. 
+
+On discovering that ancestors of the early glassmakers were alive and well and living in Flixton, we contacted the family who very generously offered their help with loaning us exhibits and a history of their ancestry. 
+
+![The History of Molineaux & Webb - Ancoats Glass Exhibition 2016 (google.com)](https://sites.google.com/site/molwebbhistory/the-history-of-molineaux-webb/ancoats-glass-exhibition-2016)
+
 Visits were made to Manchester Metropolitan University to view their glass furnace, the equipment required and to hear how the students studying glass had to travel to St. Helens to use the only other furnace in the region once they had graduated from Manchester.  Pieces of glass and some tools were loaned to ADT for the purposes of the exhibition. 
 
 **The 1851 Great Exhibition was held at Crystal Palace, London**
