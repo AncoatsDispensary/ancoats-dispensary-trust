@@ -38,7 +38,7 @@ On discovering that ancestors of the early glassmakers were alive and well and l
 
 ![The History of Molineaux & Webb - Ancoats Glass Exhibition 2016 (google.com)](https://sites.google.com/site/molwebbhistory/the-history-of-molineaux-webb/ancoats-glass-exhibition-2016)
 
-Visits were made to Manchester Metropolitan University to view their glass furnace, the equipment required and to hear how the students studying glass had to travel to St. Helens to use the only other furnace in the region once they had graduated from Manchester.  Pieces of glass and some tools were loaned to ADT for the purposes of the exhibition. 
+Visits were made to Manchester Metropolitan University to view their glass furnace, the equipment required and to hear how the students studying glass had to travel to St. Helens to use the only other furnace in the region once they had graduated from Manchester. Pieces of glass and some tools were loaned to ADT for the purposes of the exhibition. 
 
 **The 1851 Great Exhibition was held at Crystal Palace, London**
 
