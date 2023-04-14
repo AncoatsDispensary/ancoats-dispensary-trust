@@ -34,7 +34,13 @@ The two website links below is where you will find information produced by the M
 
 {% include gallery caption="Andy Hickmott reading his poems at Halle St Peter’s" %}
 
-Blog 1# - Beginnings
+----
+
+![Creating Our Future Histories](assets/images/creating-our-future-histories---logo012004.jpeg){: .align-right}
+
+----
+
+**Blog 1# - Beginnings**
 
 The following entry was written by Megan Webber, and published at the Ancoats Dispensary Trust's section of the Creating Our Future Histories website here. The members of the Trust involved with this research project are: Linda Carver, June Rosen, Patrick Joseph Haley, Stefania Camilli, Andy Hickmott and Mark Charnley. The researchers are: Megan Webber, Tessa Chynoweth, Helen Rogers and Craig Stafford.
 
@@ -47,3 +53,23 @@ At our first session on September 6th, we brainstormed many ideas for the projec
 Members of the group have also been researching the history of Ancoats Dispensary, sharing oral histories, newspaper articles, parliamentary reports, and medical journals. In addition, Tessa Chynoweth has compiled a list of sources accessible at the Manchester Archives. What has really struck me during the course of this research is how Ancoats Dispensary offers a unique lens to explore a wide range of issues which were not only discussed by nineteenth-century Mancunians, but have relevance today: These issues include immigration, juvenile delinquency, urban poverty, and public health. One of the desires of the Ancoats Dispensary Trust is to foster a connection to the dispensary amongst all members of the Ancoats community, no matter their backgrounds. By drawing out the connections between past and present, we might encourage community members to see that the dispensary has relevance to their own lives and that the history of Ancoats Dispensary is also “their” history.
 
 At this early point in the project, our group has more questions than answers. But this initial stage is tremendously exciting, our imaginations wide open to the possibilities before us. I look forward to seeing how some of our ideas will translate into concrete plans over the coming weeks.
+
+----
+
+**Blog 2# - My ❤ Belongs To Ancoats**
+
+The following entry was written by Megan Webber, and published at the Ancoats Dispensary Trust's section of the Creating Our Future Histories website here. The members of the Trust involved with this research project are: Linda Carver, June Rosen, Patrick Joseph Haley, Stefania Camilli, Andy Hickmott and Mark Charnley. The researchers are: Megan Webber, Tessa Chynoweth, Helen Rogers and Craig Stafford.
+
+![Megan Webber](assets/images/blog img 2.jpeg){: .align-center}
+
+Following the jam-packed workshop at the People’s History Museum, the facebook page where we started to share our ideas for the project was overflowing. Here, we share some of the inspirations for Creating Our Future Histories Ancoats-Trust-Dispensary style…
+
+(Top and bottom images) The main source of inspiration continues to be those who were involved with the campaign to save the Dispensary, and those now involved in the Ancoats Dispensary Trust to establish its future: the people of Ancoats.
+
+The strength of feeling in the area, and the potential for the future of the building as a community hub has taken material form over the past couple of months in the Ancoats Dispensary Trust banner, which was unveiled and exhibited as part of Politika in September. Under the expert guidance of legendary-banner-maker Ed Hall, members of the community were invited to contribute their own patches to the banner. As well as pictorial momentos, hearts, doves, and musical instruments, patches included: ‘Smiles for Ancoats’ , ‘My ❤ belongs to Ancoats’, ‘hope’ and ‘unite’. An outline of Ancoats Dispensary provides the structure for the banner, with individual patches displayed in the doors and windows. In the fabric-form of the banner, Ancoats Dispensary is once again populated by the community, raising their voices to the building as ‘The Beating Heart of Ancoats’. More on this inspirational project can be seen here.
+
+(Middle image) This is a photo of Mick Coleman at the Tate’s recent Lowry exhibition pointing to the exact spot on Lowry’s Ancoats Hospital Outpatients’ Hall, where he, aged eight, sat bloodied in the waiting room after being mugged. Mick Coleman is one half of the musical-duo responsible for the 1978 number one hit Matchstalk Men and Matchstalk Cats and Dogs, an ode to Lowry’s Manchester. While Lowry’s painting is remarkable in itself, it is Mick’s act of remembrance and the spur to artistic creativity that is the reason for including the Matchstalk Men here. (The song, which I hadn’t heard before has also been stuck in my head since hearing it… “he-painted-Salford’s-smoky tops-on-cardboard-boxes-from-the-shops, parts of Ancoats where I used to playyyy…”) You can hear it here.
+
+It is this spur to artistic creativity that was the background to the 2004 Bow Arts exhibition Ancoats Hospital, Outpatients Hall at The Nunnery. (pictured middle left) The artists involved in the project responded to Lowry’s painting, and to the idea of the space of the waiting room where members of the community gathered together. This exhibition is particularly interesting for us, as it is hoped that Ancoats Dispensary will become a creative hub, with artists studios occupying much of the first floor. Certainly something to follow up… You can read about the exhibition here.
+
+(Middle right) This is a photo of Manchester Art Museum at Ancoats Hall , which was opened in 1865, and in its own historically-specific-way sought to provide a beacon of hope to a community besieged by the poverty and ill-health that featured in governmental and individual reports. A typically nineteenth-century middle-class institution in its inception and ideology, the Manchester Art Museum appeared around the same time as the Dispensary to serve the community of Ancoats. Both institutions can be seen as the forerunners to what it is hoped the Ancoats Dispensary building will become. Although these two nineteenth-century institutions may have long gone, it is hoped the Ancoats Dispensary will once again serve the health and wellbeing of the community through creative and community projects.
