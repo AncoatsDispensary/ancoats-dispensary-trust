@@ -22,10 +22,6 @@ The academics did all the research about Ancoats and the Dispensary and to promo
 
 [Ancoats in 100 Objects.](https://ancoatsdispensary100.wordpress.com/)
 
-The two website links below is where you will find information produced by the Manchester Metropolitan University in relation to the Creating our Future Histories project.
-
-[Ancoats Dispensary Trust:: Creating Our Future Histories](https://ancoatsdispensarytrust.co.uk/futurehistories-121.html)
-
 ![MMU Researchers with Patron, June Rosen, celebrating at Halle St Peter’s.](assets/images/MMU Researches with Patron, June Rosen celebrating at Halle St Peters.jpg){: .align-center}
 
 {% include gallery caption="MMU Researchers with Patron, June Rosen, celebrating at Halle St Peter’s" %}
